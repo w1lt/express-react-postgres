@@ -1,7 +1,3 @@
-Sure, here's the README content formatted so you can copy and paste it directly:
-
----
-
 # Express React Postgres Project
 
 This project is a full-stack application built using Express.js for the backend, React.js for the frontend, and PostgreSQL as the database. It includes features like user authentication, an admin panel for managing users, and a post system with upvote/downvote functionality.
@@ -10,9 +6,6 @@ This project is a full-stack application built using Express.js for the backend,
 
 - **User Authentication**: Register, login, and secure routes.
 - **Admin Panel**: Manage users and view all tables.
-- **Post System**: Create, read, update, and delete posts.
-- **Voting System**: Upvote and downvote posts.
-- **Post Replies**: Comment and reply to posts.
 
 ## Technologies Used
 
